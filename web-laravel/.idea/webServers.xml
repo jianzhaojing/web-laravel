@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="660576f0-6a31-47fe-8f8b-101e273d36f7" name="web-laravel" url="http://140.143.225.237">
+        <fileTransfer host="140.143.225.237" port="22" rootFolder="/usr/local/nginx/www" accessType="SFTP" password="dfc0dfc3dfcbdfc4dfd0dfc2dfcbdfc5dfc0dfc3dfc4dfcddf99df84df9bdf9e" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
